@@ -1,8 +1,13 @@
 body {
     background: rgb(255, 255, 255);
 }
-a {
-    font-size: large;
+h1 {
     color:blueviolet;
     font-family: 'Courier New', Courier, monospace;
+}
+.div1 {
+    background: rgb(189, 161, 49);
+    width: 800px;
+    height: auto;
+    text-align: center;
 }
