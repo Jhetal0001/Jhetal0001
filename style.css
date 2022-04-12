@@ -10,21 +10,34 @@ body {
     height: auto;
     text-align: center;
     border: 1px solid gold;
+    width: 800px;
+    transform: translate(33%, 0px);
+
 }
 .texto_p {
     background: greenyellow;
-    width: 100%;
     font-size: large;
     border: 1px solid gold;
     text-align: center;
+    width: 800px;
+    transform: translate(33%, 0px);
+}
+.logo {
+    width: 7%;
+    height: 7%;
+    transform: translate(0%, 40%);
 }
 .divcabecera{
     background: rgb(224, 179, 30);
     text-align: center;
     border: 1px solid goldenrod;
+    display: flex;
+    width: 800px;
+    height: auto;
+    transform: translate(33%, 0px);
 }
 .cabecera {
-    font-size:50px;
+    font-size:40px;
     color: blue;
 }
 .cabecera span{
