@@ -32,3 +32,16 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(0, 81, 255);
 }
+.footer{
+    width: 800px;
+    transform: translate(33%, 0);
+    text-align: center;
+    padding: 30px;
+    color: blue;
+    background: rgb(224, 179, 30);
+    border-radius: 0px 0px 20px 20px;
+}
+.footer span {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif, bold;
+}
